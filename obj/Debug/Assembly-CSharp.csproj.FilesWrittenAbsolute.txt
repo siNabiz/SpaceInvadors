@@ -1,0 +1,13 @@
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Sina/Desktop/Space Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
